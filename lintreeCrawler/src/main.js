@@ -20,4 +20,3 @@ const crawler = new CheerioCrawler({
 await crawler.run(startUrls);
 //combine all the data into one array and then save it to a json file
 const data = await Dataset.getData();
-await Apify.setValue("OUTPUT", data);
