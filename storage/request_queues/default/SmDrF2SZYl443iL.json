@@ -1,6 +1,6 @@
 {
 	"id": "SmDrF2SZYl443iL",
-	"json": "{\"id\":\"SmDrF2SZYl443iL\",\"url\":\"https://linktr.ee/alex_freerun\",\"loadedUrl\":\"https://linktr.ee/alex_freerun\",\"uniqueKey\":\"https://linktr.ee/alex_freerun\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.515Z\"}",
+	"json": "{\"id\":\"SmDrF2SZYl443iL\",\"url\":\"https://linktr.ee/alex_freerun\",\"loadedUrl\":\"https://linktr.ee/alex_freerun\",\"uniqueKey\":\"https://linktr.ee/alex_freerun\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.664Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

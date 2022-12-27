@@ -1,24 +1,34 @@
 {
-	"url": "https://linktr.ee/sodfestival",
-	"title": "Sounds of Downtown | Twitter, TikTok | LinktreeLinktree",
+	"url": "https://linktr.ee/linktr.ee",
+	"title": "Welcome to our Linktree | LinktreeLinktree",
 	"socialLinks": {
-		"emails": [],
+		"emails": [
+			"support@linktr.ee"
+		],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [
-			"https://twitter.com/sodfestival"
+			"https://twitter.com/Linktree_"
 		],
-		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
+		"instagrams": [
+			"https://instagram.com/linktr.ee"
+		],
+		"facebooks": [
+			"https://www.facebook.com/Linktree/"
+		],
+		"youtubes": [
+			"https://www.youtube.com/channel/UC8We2IKQo4lbongz7uOn2vA"
+		],
 		"tiktoks": [
-			"https://www.tiktok.com/@sodfestival"
+			"https://tiktok.com/@linktr.ee"
 		],
-		"pinterests": [],
+		"pinterests": [
+			"https://www.pinterest.com/linktreeapp/"
+		],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/pV37dtdzR663XPiOc9jn_6ev57Pl0uoX9e8p0",
-	"name": "Sounds of Downtown",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/HwrgaarzTEOljjhlbkV5_Ag7K55YMvWAE9Ul4",
+	"name": "LINKTREE",
 	"accountType": "free"
 }

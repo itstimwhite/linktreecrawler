@@ -1,20 +1,22 @@
 {
-	"url": "https://linktr.ee/gripzilla.co",
-	"title": "@gripzilla.co | Linktree",
+	"url": "https://linktr.ee/sajceramic",
+	"title": "sajceramic | Instagram | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
+		"instagrams": [
+			"https://www.instagram.com/sajceramic/"
+		],
 		"facebooks": [],
 		"youtubes": [],
 		"tiktoks": [],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/YMUQWMmhTVODLoB6hR1l_0L0uUQ6PQYn9PW1h",
-	"name": "@gripzilla.co",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/jq2IoHJkS522Sv2ft86c_6RS6YYXcdpxV7a7q",
+	"name": "@sajceramic",
+	"accountType": "free"
 }

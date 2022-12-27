@@ -1,6 +1,6 @@
 {
 	"id": "LIaFchBapkvEurl",
-	"json": "{\"id\":\"LIaFchBapkvEurl\",\"url\":\"https://linktr.ee/balticborn\",\"loadedUrl\":\"https://linktr.ee/balticborn\",\"uniqueKey\":\"https://linktr.ee/balticborn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.849Z\"}",
+	"json": "{\"id\":\"LIaFchBapkvEurl\",\"url\":\"https://linktr.ee/balticborn\",\"loadedUrl\":\"https://linktr.ee/balticborn\",\"uniqueKey\":\"https://linktr.ee/balticborn\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:39.232Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

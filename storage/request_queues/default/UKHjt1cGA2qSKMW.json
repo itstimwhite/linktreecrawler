@@ -1,6 +1,6 @@
 {
 	"id": "UKHjt1cGA2qSKMW",
-	"json": "{\"id\":\"UKHjt1cGA2qSKMW\",\"url\":\"https://linktr.ee/emlynmusic\",\"loadedUrl\":\"https://linktr.ee/emlynmusic\",\"uniqueKey\":\"https://linktr.ee/emlynmusic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.290Z\"}",
+	"json": "{\"id\":\"UKHjt1cGA2qSKMW\",\"url\":\"https://linktr.ee/emlynmusic\",\"loadedUrl\":\"https://linktr.ee/emlynmusic\",\"uniqueKey\":\"https://linktr.ee/emlynmusic\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.100Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

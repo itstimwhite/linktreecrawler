@@ -1,23 +1,28 @@
 {
-	"url": "https://linktr.ee/kamzcr",
-	"title": "@kamzcr | LinktreeLinktree",
+	"url": "https://linktr.ee/milkhater05",
+	"title": "milkhater05 | Twitter, Instagram, TikTok | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
-		"instagrams": [],
+		"twitters": [
+			"https://twitter.com/dolllyfied"
+		],
+		"instagrams": [
+			"https://instagram.com/dolllyfied"
+		],
 		"facebooks": [],
 		"youtubes": [],
-		"tiktoks": [],
+		"tiktoks": [
+			"https://www.tiktok.com/@dolllyfied"
+		],
 		"pinterests": [],
 		"discords": [
-			"discordapp.com/splashes/",
-			"https://discord.gg/jZyGP4mH"
+			"https://discord.gg/geass"
 		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/H5SDswPNS5WLYWSzeSbK_0f0zc6ZT0p1w8c23",
-	"name": "@kamzcr",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/uIGjXaQseIk8npFc3jUQ_TMhSMYJGfjPt9ljc",
+	"name": "@milkhater05",
 	"accountType": "free"
 }

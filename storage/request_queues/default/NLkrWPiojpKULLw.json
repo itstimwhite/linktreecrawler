@@ -1,6 +1,6 @@
 {
 	"id": "NLkrWPiojpKULLw",
-	"json": "{\"id\":\"NLkrWPiojpKULLw\",\"url\":\"https://linktr.ee/peanutstain\",\"loadedUrl\":\"https://linktr.ee/peanutstain\",\"uniqueKey\":\"https://linktr.ee/peanutstain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.474Z\"}",
+	"json": "{\"id\":\"NLkrWPiojpKULLw\",\"url\":\"https://linktr.ee/peanutstain\",\"loadedUrl\":\"https://linktr.ee/peanutstain\",\"uniqueKey\":\"https://linktr.ee/peanutstain\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.586Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

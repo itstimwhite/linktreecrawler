@@ -1,19 +1,26 @@
 {
-	"url": "https://auth.linktr.ee/login?state=hKFo2SBIdDJSOUVEWUZROFJ0NUJ6R1VqUm1SVUtjUVBick9teqFupWxvZ2luo3RpZNkgcmFFSXJlelVmSnEzYlh3Mm5VaVBIRURuSl9jMDlpeFSjY2lk2SB5NUtvZEFBc3hrNmNLZFhQcHdXUHFHcGYwVzM2RDNSTA&client=y5KodAAsxk6cKdXPpwWPqGpf0W36D3RL&protocol=oauth2&auth0Client=eyJuYW1lIjoiSFdJT0F1dGhCdW5kbGUiLCJ2ZXJzaW9uIjoidW5rbm93biIsImVudmlyb25tZW50Ijp7Im5hbWUiOiJQSFAiLCJ2ZXJzaW9uIjoiNy40LjMzIn19&response_type=code&scope=openid%20profile%20email%20username%20offline_access%20read%3Aauthenticators&redirect_uri=https%3A%2F%2Flinktr.ee%2Fconnect%2Fservice%2Fauth0&audience=https%3A%2F%2Flinktr.ee%2Fapi&ld_anon_key=e764db7d-8403-4989-aa79-b1f6ae874a19&ld_anon_hash=9252abe1641031c19649bfbc1c63172796f65edab05710ef83b1efbf65b3e42c",
-	"title": "Linktree",
+	"url": "https://linktr.ee/sierracabot",
+	"title": "SierraCabot | Instagram, TikTok, Twitch | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
+		"instagrams": [
+			"https://www.instagram.com/sierra_cabot/"
+		],
 		"facebooks": [],
 		"youtubes": [],
-		"tiktoks": [],
+		"tiktoks": [
+			"https://www.tiktok.com/@ccabots"
+		],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/5zQRNQxBbd"
+		]
 	},
-	"name": "",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/GEXgg1xSQYSAtFPDKd0Y_Zcw1m7Qbz669OLfI",
+	"name": "@SierraCabot",
+	"accountType": "free"
 }

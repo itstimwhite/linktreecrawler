@@ -1,26 +1,23 @@
 {
-	"url": "https://linktr.ee/sierracabot",
-	"title": "SierraCabot | Instagram, TikTok, Twitch | LinktreeLinktree",
+	"url": "https://linktr.ee/harusajin",
+	"title": "haru's links | Twitter | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
-		"instagrams": [
-			"https://www.instagram.com/sierra_cabot/"
+		"twitters": [
+			"https://twitter.com/harurudan",
+			"https://twitter.com/harusajin"
 		],
+		"instagrams": [],
 		"facebooks": [],
 		"youtubes": [],
-		"tiktoks": [
-			"https://www.tiktok.com/@ccabots"
-		],
+		"tiktoks": [],
 		"pinterests": [],
-		"discords": [
-			"https://discord.gg/5zQRNQxBbd"
-		]
+		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/GEXgg1xSQYSAtFPDKd0Y_Zcw1m7Qbz669OLfI",
-	"name": "@SierraCabot",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/DNyZJncsQVSlbLZ0nvQq_zDX0OXpx8vY8YDi7",
+	"name": "haru's links",
 	"accountType": "free"
 }

@@ -1,6 +1,6 @@
 {
 	"id": "xrcbqAufSUXUwEk",
-	"json": "{\"id\":\"xrcbqAufSUXUwEk\",\"url\":\"https://linktr.ee/juliaringblom\",\"loadedUrl\":\"https://linktr.ee/juliaringblom\",\"uniqueKey\":\"https://linktr.ee/juliaringblom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:41.831Z\"}",
+	"json": "{\"id\":\"xrcbqAufSUXUwEk\",\"url\":\"https://linktr.ee/juliaringblom\",\"loadedUrl\":\"https://linktr.ee/juliaringblom\",\"uniqueKey\":\"https://linktr.ee/juliaringblom\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:43.621Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

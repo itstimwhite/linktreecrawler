@@ -1,6 +1,6 @@
 {
 	"id": "fH3egf7vBVcYOLy",
-	"json": "{\"id\":\"fH3egf7vBVcYOLy\",\"url\":\"https://linktr.ee/ferraino\",\"loadedUrl\":\"https://linktr.ee/ferraino\",\"uniqueKey\":\"https://linktr.ee/ferraino\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.422Z\"}",
+	"json": "{\"id\":\"fH3egf7vBVcYOLy\",\"url\":\"https://linktr.ee/ferraino\",\"loadedUrl\":\"https://linktr.ee/ferraino\",\"uniqueKey\":\"https://linktr.ee/ferraino\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.381Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

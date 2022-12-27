@@ -1,19 +1,26 @@
 {
-	"url": "https://linktr.ee/freefire.duit",
-	"title": "@Freefire.duit | LinktreeLinktree",
+	"url": "https://linktr.ee/sabbyandsophia",
+	"title": "sabbyandsophia | Instagram, Facebook | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
+		"instagrams": [
+			"https://instagram.com/marietwinsofficial"
+		],
+		"facebooks": [
+			"https://www.facebook.com/SabbyandSophiaOfficial"
+		],
+		"youtubes": [
+			"https://youtube.com/channel/UCQCxoJKGtv-xh9Sd4Lp9OiA"
+		],
 		"tiktoks": [],
 		"pinterests": [],
 		"discords": []
 	},
-	"name": "@Freefire.duit",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/o3RPgXFXQ3a1pDaoz1sK_bV6U4z8xx7dQMOXI",
+	"name": "@sabbyandsophia",
 	"accountType": "free"
 }

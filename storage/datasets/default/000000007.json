@@ -1,20 +1,30 @@
 {
-	"url": "https://linktr.ee/richanddelish",
-	"title": "@richanddelish | LinktreeLinktree",
+	"url": "https://linktr.ee/elsaspeakapp",
+	"title": "ElsaSpeakApp | Twitter, Facebook, TikTok | LinktreeLinktree",
 	"socialLinks": {
-		"emails": [],
+		"emails": [
+			"support@elsanow.io"
+		],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
+		"twitters": [
+			"https://twitter.com/elsa_speak"
+		],
 		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
-		"tiktoks": [],
+		"facebooks": [
+			"https://www.facebook.com/elsaspeak"
+		],
+		"youtubes": [
+			"https://www.youtube.com/channel/UCHdk9X1eB16lwtNJy_ygPVg"
+		],
+		"tiktoks": [
+			"https://tiktok.com/@elsaspeak"
+		],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/LznwuZER5GFlsYZehHci_8MniMA488P8sa94b",
-	"name": "@richanddelish",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/8Bt2UlsMTjq8mBeah2iw_NYC9emzd27n7tiXO",
+	"name": "@ElsaSpeakApp",
 	"accountType": "free"
 }

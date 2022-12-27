@@ -1,6 +1,6 @@
 {
 	"id": "xPSHAaTrxA9dGTx",
-	"json": "{\"id\":\"xPSHAaTrxA9dGTx\",\"url\":\"https://linktr.ee/shanssparkleshop\",\"loadedUrl\":\"https://linktr.ee/shanssparkleshop\",\"uniqueKey\":\"https://linktr.ee/shanssparkleshop\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.368Z\"}",
+	"json": "{\"id\":\"xPSHAaTrxA9dGTx\",\"url\":\"https://linktr.ee/shanssparkleshop\",\"loadedUrl\":\"https://linktr.ee/shanssparkleshop\",\"uniqueKey\":\"https://linktr.ee/shanssparkleshop\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.556Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

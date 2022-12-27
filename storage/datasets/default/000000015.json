@@ -1,26 +1,30 @@
 {
-	"url": "https://linktr.ee/savinggracepodcast",
-	"title": "Saving Grace Podcast | Instagram, TikTok | LinktreeLinktree",
+	"url": "https://linktr.ee/sheriffstrafe",
+	"title": "Sheriff Strafe | Linktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
+		"twitters": [
+			"https://twitter.com/sheriffStrafe"
+		],
 		"instagrams": [
-			"https://www.instagram.com/savinggracepod/"
+			"https://www.instagram.com/sheriffstrafe/"
 		],
 		"facebooks": [],
 		"youtubes": [
-			"https://www.youtube.com/channel/UCQ6ooac2K6sWf8gjlNR85eg"
+			"https://www.youtube.com/sheriffstrafe"
 		],
 		"tiktoks": [
-			"http://www.tiktok.com/@savinggracepod"
+			"https://www.tiktok.com/@sheriffstrafe"
 		],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/SheriffStrafe"
+		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/5Ml00usQAyPWDOh2Kl9g_FUz0L71ebn9ct3Z0",
-	"name": "Saving Grace Podcast",
-	"accountType": "free"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/6wGmtykqTcW52mzO2evC_tPQz5CFNlPgfU6mH",
+	"name": "Sheriff Strafe",
+	"accountType": "paid"
 }

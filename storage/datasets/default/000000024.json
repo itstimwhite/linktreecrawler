@@ -1,30 +1,19 @@
 {
-	"url": "https://linktr.ee/djericrhodes",
-	"title": "Eric Rhodes | Instagram, Facebook, TikTok | Linktree",
+	"url": "https://auth.linktr.ee/login?state=hKFo2SAxeWM0ZkNVZWh4WGJYTW9yTGt4YTRQbEZ6bkxxZ2t0S6FupWxvZ2luo3RpZNkgRVg3QjM4Q3VzVENGZWthb080dXdrSUpuWVR6V1RGVTWjY2lk2SB5NUtvZEFBc3hrNmNLZFhQcHdXUHFHcGYwVzM2RDNSTA&client=y5KodAAsxk6cKdXPpwWPqGpf0W36D3RL&protocol=oauth2&auth0Client=eyJuYW1lIjoiSFdJT0F1dGhCdW5kbGUiLCJ2ZXJzaW9uIjoidW5rbm93biIsImVudmlyb25tZW50Ijp7Im5hbWUiOiJQSFAiLCJ2ZXJzaW9uIjoiNy40LjMzIn19&response_type=code&scope=openid%20profile%20email%20username%20offline_access%20read%3Aauthenticators&redirect_uri=https%3A%2F%2Flinktr.ee%2Fconnect%2Fservice%2Fauth0&audience=https%3A%2F%2Flinktr.ee%2Fapi&registrationStartedAt=1672116817.3657&mfeOnboarding=true&ld_anon_key=73daa8b0-3ffd-46ee-9b34-f112f8a75fd6&ld_anon_hash=5b41c21aee805a5a1b6fdc6f6035baadeb104575c36ee737289a9009cc263cde",
+	"title": "Linktree",
 	"socialLinks": {
-		"emails": [
-			"Eric@RhodesEntertainment.com"
-		],
+		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [
-			"https://instagram.com/djericrhodes"
-		],
-		"facebooks": [
-			"https://www.facebook.com/RhodesEntertainment/"
-		],
-		"youtubes": [
-			"https://www.youtube.com/channel/UCNqLnC4Mc6nGY1ad-aLxxqw"
-		],
-		"tiktoks": [
-			"https://tiktok.com/@djericrhodes"
-		],
+		"instagrams": [],
+		"facebooks": [],
+		"youtubes": [],
+		"tiktoks": [],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/32EoS0PuT8SqQgYWN9U5_qW2XfZ49QfYYs22g",
-	"name": "Eric Rhodes",
+	"name": "",
 	"accountType": "paid"
 }

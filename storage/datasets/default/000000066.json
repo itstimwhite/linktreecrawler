@@ -1,6 +1,6 @@
 {
-	"url": "https://linktr.ee/islandboyz",
-	"title": "@islandboyz | Linktree",
+	"url": "https://linktr.ee/emlynmusic",
+	"title": "emlynmusic - Listen on YouTube, Spotify - LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
@@ -10,13 +10,15 @@
 		"instagrams": [],
 		"facebooks": [],
 		"youtubes": [
-			"https://youtu.be/FoYMESRE93E"
+			"https://youtu.be/BJEGBmxAoAE"
 		],
 		"tiktoks": [],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/8Xr73XB3H7"
+		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/hzB53Pt7TOaeIYRzxjLq_1XL4984X1c1Of4rE",
-	"name": "@islandboyz",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/56JrHePkSoKjT2tbEcm5_QF5SGhIO75hPz53r",
+	"name": "@emlynmusic",
+	"accountType": "free"
 }

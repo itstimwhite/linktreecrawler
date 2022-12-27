@@ -1,6 +1,6 @@
 {
 	"id": "URzMhrT9SUHAzhn",
-	"json": "{\"id\":\"URzMhrT9SUHAzhn\",\"url\":\"https://linktr.ee/kartu.prakerja\",\"loadedUrl\":\"https://linktr.ee/kartu.prakerja\",\"uniqueKey\":\"https://linktr.ee/kartu.prakerja\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:41.988Z\"}",
+	"json": "{\"id\":\"URzMhrT9SUHAzhn\",\"url\":\"https://linktr.ee/kartu.prakerja\",\"loadedUrl\":\"https://linktr.ee/kartu.prakerja\",\"uniqueKey\":\"https://linktr.ee/kartu.prakerja\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:43.662Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "fbjk3aUmYI9TMem",
-	"json": "{\"id\":\"fbjk3aUmYI9TMem\",\"url\":\"https://linktr.ee/elsaspeakapp\",\"loadedUrl\":\"https://linktr.ee/elsaspeakapp\",\"uniqueKey\":\"https://linktr.ee/elsaspeakapp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.470Z\"}",
+	"json": "{\"id\":\"fbjk3aUmYI9TMem\",\"url\":\"https://linktr.ee/elsaspeakapp\",\"loadedUrl\":\"https://linktr.ee/elsaspeakapp\",\"uniqueKey\":\"https://linktr.ee/elsaspeakapp\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.610Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

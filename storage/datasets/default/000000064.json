@@ -1,20 +1,30 @@
 {
-	"url": "https://linktr.ee/mrbakersite",
-	"title": "Mr. Baker | LinktreeLinktree",
+	"url": "https://linktr.ee/tate_mcrae",
+	"title": "tate mcrae | Twitter, Instagram, Facebook, TikTok | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
-		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
-		"tiktoks": [],
+		"twitters": [
+			"https://twitter.com/tatemcrae"
+		],
+		"instagrams": [
+			"https://instagram.com/tatemcrae"
+		],
+		"facebooks": [
+			"https://www.facebook.com/TateMcRaeOfficial"
+		],
+		"youtubes": [
+			"https://youtube.com/tatemcrae"
+		],
+		"tiktoks": [
+			"https://tiktok.com/@tatemcrae"
+		],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/Jy6NpY7LTt2O9oxJeum7_22mpbQs313KW83KR",
-	"name": "Mr. Baker",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/ywGv8ljaQesRBbHRNcig_dw83uBfAuV29d8FL",
+	"name": "tate mcrae",
 	"accountType": "free"
 }

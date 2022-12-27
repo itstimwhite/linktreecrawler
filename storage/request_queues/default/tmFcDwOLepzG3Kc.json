@@ -1,6 +1,6 @@
 {
 	"id": "tmFcDwOLepzG3Kc",
-	"json": "{\"id\":\"tmFcDwOLepzG3Kc\",\"url\":\"https://linktr.ee/sydneybeauty\",\"loadedUrl\":\"https://linktr.ee/sydneybeauty\",\"uniqueKey\":\"https://linktr.ee/sydneybeauty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.037Z\"}",
+	"json": "{\"id\":\"tmFcDwOLepzG3Kc\",\"url\":\"https://linktr.ee/sydneybeauty\",\"loadedUrl\":\"https://linktr.ee/sydneybeauty\",\"uniqueKey\":\"https://linktr.ee/sydneybeauty\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:43.762Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

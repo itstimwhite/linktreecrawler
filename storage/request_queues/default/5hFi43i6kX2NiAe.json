@@ -1,6 +1,6 @@
 {
 	"id": "5hFi43i6kX2NiAe",
-	"json": "{\"id\":\"5hFi43i6kX2NiAe\",\"url\":\"https://linktr.ee/sheriffstrafe\",\"loadedUrl\":\"https://linktr.ee/sheriffstrafe\",\"uniqueKey\":\"https://linktr.ee/sheriffstrafe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.637Z\"}",
+	"json": "{\"id\":\"5hFi43i6kX2NiAe\",\"url\":\"https://linktr.ee/sheriffstrafe\",\"loadedUrl\":\"https://linktr.ee/sheriffstrafe\",\"uniqueKey\":\"https://linktr.ee/sheriffstrafe\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:39.025Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

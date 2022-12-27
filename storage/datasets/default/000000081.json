@@ -1,12 +1,14 @@
 {
-	"url": "https://linktr.ee/nadaidentity",
-	"title": ". | TikTok | Linktree",
+	"url": "https://linktr.ee/futebol_links",
+	"title": "futebol_links | Twitter | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
+		"twitters": [
+			"https://twitter.com/FutemaxLives/"
+		],
 		"instagrams": [],
 		"facebooks": [],
 		"youtubes": [],
@@ -14,7 +16,7 @@
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/kpPlynXhQASsDWKC2rJX_2XlmcwOpaQD50EW0",
-	"name": ".",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/F2BKoi8dQT74QcCgVsR7_0rVnOyaWOx2054F9",
+	"name": "@futebol_links",
+	"accountType": "free"
 }

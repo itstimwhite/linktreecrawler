@@ -1,6 +1,6 @@
 {
 	"id": "aL4MYQF8FCjP3Ub",
-	"json": "{\"id\":\"aL4MYQF8FCjP3Ub\",\"url\":\"https://linktr.ee/discover/profile-directory/c/all/page-1/\",\"loadedUrl\":\"https://linktr.ee/discover/profile-directory/c/all/page-1/\",\"uniqueKey\":\"https://linktr.ee/discover/profile-directory/c/all/page-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:41.402Z\"}",
+	"json": "{\"id\":\"aL4MYQF8FCjP3Ub\",\"url\":\"https://linktr.ee/discover/profile-directory/c/all/page-1/\",\"loadedUrl\":\"https://linktr.ee/discover/profile-directory/c/all/page-1/\",\"uniqueKey\":\"https://linktr.ee/discover/profile-directory/c/all/page-1\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.435Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,19 +1,27 @@
 {
-	"url": "https://linktr.ee/sydneybeauty",
-	"title": "",
+	"url": "https://linktr.ee/3secondofficial",
+	"title": "3SECOND | Instagram, TikTok | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
+		"instagrams": [
+			"https://www.instagram.com/its3secondkids/",
+			"https://www.instagram.com/weare3second/"
+		],
 		"facebooks": [],
-		"youtubes": [],
-		"tiktoks": [],
+		"youtubes": [
+			"https://www.youtube.com/channel/UCYkrj9qu4vlgrMXPzJCFEFg"
+		],
+		"tiktoks": [
+			"https://www.tiktok.com/@its3second"
+		],
 		"pinterests": [],
 		"discords": []
 	},
-	"name": "",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/meEde5vBTcCviukaabZW_BI0rhi3WdjyFP9et",
+	"name": "3SECOND",
+	"accountType": "free"
 }

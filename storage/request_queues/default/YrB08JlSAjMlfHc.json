@@ -1,6 +1,6 @@
 {
 	"id": "YrB08JlSAjMlfHc",
-	"json": "{\"id\":\"YrB08JlSAjMlfHc\",\"url\":\"https://linktr.ee/discolines\",\"loadedUrl\":\"https://linktr.ee/discolines\",\"uniqueKey\":\"https://linktr.ee/discolines\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.475Z\"}",
+	"json": "{\"id\":\"YrB08JlSAjMlfHc\",\"url\":\"https://linktr.ee/discolines\",\"loadedUrl\":\"https://linktr.ee/discolines\",\"uniqueKey\":\"https://linktr.ee/discolines\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.707Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "UtD3aemgJWLGLfT",
-	"json": "{\"id\":\"UtD3aemgJWLGLfT\",\"url\":\"https://linktr.ee/djericrhodes\",\"loadedUrl\":\"https://linktr.ee/djericrhodes\",\"uniqueKey\":\"https://linktr.ee/djericrhodes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.234Z\"}",
+	"json": "{\"id\":\"UtD3aemgJWLGLfT\",\"url\":\"https://linktr.ee/djericrhodes\",\"loadedUrl\":\"https://linktr.ee/djericrhodes\",\"uniqueKey\":\"https://linktr.ee/djericrhodes\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.052Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

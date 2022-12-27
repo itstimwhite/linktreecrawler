@@ -1,6 +1,6 @@
 {
 	"id": "mF4cwNOJRXzuxNH",
-	"json": "{\"id\":\"mF4cwNOJRXzuxNH\",\"url\":\"https://linktr.ee/zaorski\",\"loadedUrl\":\"https://linktr.ee/zaorski\",\"uniqueKey\":\"https://linktr.ee/zaorski\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.782Z\"}",
+	"json": "{\"id\":\"mF4cwNOJRXzuxNH\",\"url\":\"https://linktr.ee/zaorski\",\"loadedUrl\":\"https://linktr.ee/zaorski\",\"uniqueKey\":\"https://linktr.ee/zaorski\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.801Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

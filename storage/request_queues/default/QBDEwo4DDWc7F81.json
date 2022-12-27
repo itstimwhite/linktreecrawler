@@ -1,6 +1,6 @@
 {
 	"id": "QBDEwo4DDWc7F81",
-	"json": "{\"id\":\"QBDEwo4DDWc7F81\",\"url\":\"https://linktr.ee/jobinfo24\",\"loadedUrl\":\"https://linktr.ee/jobinfo24\",\"uniqueKey\":\"https://linktr.ee/jobinfo24\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.677Z\"}",
+	"json": "{\"id\":\"QBDEwo4DDWc7F81\",\"url\":\"https://linktr.ee/jobinfo24\",\"loadedUrl\":\"https://linktr.ee/jobinfo24\",\"uniqueKey\":\"https://linktr.ee/jobinfo24\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:43.936Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

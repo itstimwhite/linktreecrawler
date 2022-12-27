@@ -1,6 +1,6 @@
 {
 	"id": "uNQbkxGKjYUoRIN",
-	"json": "{\"id\":\"uNQbkxGKjYUoRIN\",\"url\":\"https://linktr.ee/astrohouse.me\",\"loadedUrl\":\"https://linktr.ee/astrohouse.me\",\"uniqueKey\":\"https://linktr.ee/astrohouse.me\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.227Z\"}",
+	"json": "{\"id\":\"uNQbkxGKjYUoRIN\",\"url\":\"https://linktr.ee/astrohouse.me\",\"loadedUrl\":\"https://linktr.ee/astrohouse.me\",\"uniqueKey\":\"https://linktr.ee/astrohouse.me\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.574Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

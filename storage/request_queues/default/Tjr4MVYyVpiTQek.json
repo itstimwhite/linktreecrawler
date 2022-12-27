@@ -1,6 +1,6 @@
 {
 	"id": "Tjr4MVYyVpiTQek",
-	"json": "{\"id\":\"Tjr4MVYyVpiTQek\",\"url\":\"https://linktr.ee/futebol_links\",\"loadedUrl\":\"https://linktr.ee/futebol_links\",\"uniqueKey\":\"https://linktr.ee/futebol_links\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.314Z\"}",
+	"json": "{\"id\":\"Tjr4MVYyVpiTQek\",\"url\":\"https://linktr.ee/futebol_links\",\"loadedUrl\":\"https://linktr.ee/futebol_links\",\"uniqueKey\":\"https://linktr.ee/futebol_links\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.463Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

@@ -1,6 +1,6 @@
 {
 	"id": "ajg4i1z21D5y6er",
-	"json": "{\"id\":\"ajg4i1z21D5y6er\",\"url\":\"https://linktr.ee/myfazura\",\"loadedUrl\":\"https://linktr.ee/myfazura\",\"uniqueKey\":\"https://linktr.ee/myfazura\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.209Z\"}",
+	"json": "{\"id\":\"ajg4i1z21D5y6er\",\"url\":\"https://linktr.ee/myfazura\",\"loadedUrl\":\"https://linktr.ee/myfazura\",\"uniqueKey\":\"https://linktr.ee/myfazura\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.590Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

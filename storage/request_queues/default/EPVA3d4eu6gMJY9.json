@@ -1,6 +1,6 @@
 {
 	"id": "EPVA3d4eu6gMJY9",
-	"json": "{\"id\":\"EPVA3d4eu6gMJY9\",\"url\":\"https://linktr.ee/divinaexpo\",\"loadedUrl\":\"https://linktr.ee/divinaexpo\",\"uniqueKey\":\"https://linktr.ee/divinaexpo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.460Z\"}",
+	"json": "{\"id\":\"EPVA3d4eu6gMJY9\",\"url\":\"https://linktr.ee/divinaexpo\",\"loadedUrl\":\"https://linktr.ee/divinaexpo\",\"uniqueKey\":\"https://linktr.ee/divinaexpo\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.508Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

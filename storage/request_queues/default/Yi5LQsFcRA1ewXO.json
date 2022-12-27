@@ -1,6 +1,6 @@
 {
 	"id": "Yi5LQsFcRA1ewXO",
-	"json": "{\"id\":\"Yi5LQsFcRA1ewXO\",\"url\":\"https://linktr.ee/gripzilla.co\",\"loadedUrl\":\"https://linktr.ee/gripzilla.co\",\"uniqueKey\":\"https://linktr.ee/gripzilla.co\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.968Z\"}",
+	"json": "{\"id\":\"Yi5LQsFcRA1ewXO\",\"url\":\"https://linktr.ee/gripzilla.co\",\"loadedUrl\":\"https://linktr.ee/gripzilla.co\",\"uniqueKey\":\"https://linktr.ee/gripzilla.co\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.512Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

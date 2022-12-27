@@ -1,6 +1,6 @@
 {
 	"id": "G7B0xa3hz7kF4R5",
-	"json": "{\"id\":\"G7B0xa3hz7kF4R5\",\"url\":\"https://linktr.ee/sooji.claire\",\"loadedUrl\":\"https://linktr.ee/sooji.claire\",\"uniqueKey\":\"https://linktr.ee/sooji.claire\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.448Z\"}",
+	"json": "{\"id\":\"G7B0xa3hz7kF4R5\",\"url\":\"https://linktr.ee/sooji.claire\",\"loadedUrl\":\"https://linktr.ee/sooji.claire\",\"uniqueKey\":\"https://linktr.ee/sooji.claire\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:42.265Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

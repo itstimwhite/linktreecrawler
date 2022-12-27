@@ -1,26 +1,30 @@
 {
-	"url": "https://linktr.ee/belaplusoficial",
-	"title": "FALE COM AS CONSULTORAS ⬇️ | Instagram, Facebook, TikTok | LinktreeLinktree",
+	"url": "https://linktr.ee/javajazzfestival",
+	"title": "JavaJazzFestival | Twitter, Instagram, Facebook, TikTok | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
+		"twitters": [
+			"https://twitter.com/JavaJazzFest"
+		],
 		"instagrams": [
-			"https://instagram.com/belaplus.oficial"
+			"https://www.instagram.com/javajazzfest/"
 		],
 		"facebooks": [
-			"https://www.facebook.com/belaplus.oficial"
+			"https://www.facebook.com/JavaJazzFestival"
 		],
-		"youtubes": [],
+		"youtubes": [
+			"https://www.youtube.com/c/JavaJazzFest"
+		],
 		"tiktoks": [
-			"https://tiktok.com/@belaplus.oficial"
+			"https://www.tiktok.com/@javajazzfest"
 		],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/FE0PmFtTPKvwu8fpg23U_m2bU1KA1Q93JdnUN",
-	"name": "FALE COM AS CONSULTORAS ⬇️",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/2FgY1X3MTyubiG3acal5_9jfTOkMoprNihn60",
+	"name": "@JavaJazzFestival",
 	"accountType": "free"
 }

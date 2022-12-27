@@ -1,6 +1,6 @@
 {
 	"id": "eD5pHj9b1HAfwgX",
-	"json": "{\"id\":\"eD5pHj9b1HAfwgX\",\"url\":\"https://linktr.ee/islandboyz\",\"loadedUrl\":\"https://linktr.ee/islandboyz\",\"uniqueKey\":\"https://linktr.ee/islandboyz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.741Z\"}",
+	"json": "{\"id\":\"eD5pHj9b1HAfwgX\",\"url\":\"https://linktr.ee/islandboyz\",\"loadedUrl\":\"https://linktr.ee/islandboyz\",\"uniqueKey\":\"https://linktr.ee/islandboyz\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.804Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

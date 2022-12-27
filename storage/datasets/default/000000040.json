@@ -1,20 +1,26 @@
 {
-	"url": "https://linktr.ee/sooji.claire",
-	"title": "Sooji's Links : | LinktreeLinktree",
+	"url": "https://linktr.ee/astrohouse.me",
+	"title": "霍爾的占星屋 | Instagram, Facebook | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
-		"facebooks": [],
+		"instagrams": [
+			"https://instagram.com/astrohouse.me"
+		],
+		"facebooks": [
+			"https://www.facebook.com/astrohouse.me"
+		],
 		"youtubes": [],
 		"tiktoks": [],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/ndGdvEtHXt"
+		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/KWZA1WNfT4ePV62NXGI2_eKfq8p6tmU679AM1",
-	"name": "Sooji's Links :",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/fPNnFhonQG6skFSiPPwE_ZKT4djO1284J8y5Y",
+	"name": "霍爾的占星屋",
 	"accountType": "free"
 }

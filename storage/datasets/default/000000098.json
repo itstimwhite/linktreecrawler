@@ -1,22 +1,34 @@
 {
-	"url": "https://linktr.ee/sajceramic",
-	"title": "sajceramic | Instagram | LinktreeLinktree",
+	"url": "https://linktr.ee/emisguilty",
+	"title": "EmIsGuilty | Twitter, Instagram, TikTok, Twitch | LinktreeLinktree",
 	"socialLinks": {
-		"emails": [],
+		"emails": [
+			"emisguiltybusiness@gmail.com"
+		],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
-		"twitters": [],
+		"twitters": [
+			"http://twitter.com/EmIsGuilty",
+			"https://twitter.com/EmIsGuilty"
+		],
 		"instagrams": [
-			"https://www.instagram.com/sajceramic/"
+			"http://Instagram.com/emisguilty",
+			"https://instagram.com/emilieguilbault"
 		],
 		"facebooks": [],
-		"youtubes": [],
-		"tiktoks": [],
+		"youtubes": [
+			"https://www.youtube.com/channel/UCFbTvNEyvXhaH1oj-rwiyyA"
+		],
+		"tiktoks": [
+			"https://tiktok.com/@emisguilty"
+		],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/vyTqj2cW5J"
+		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/jq2IoHJkS522Sv2ft86c_6RS6YYXcdpxV7a7q",
-	"name": "@sajceramic",
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/JLKgSJJSkm56WH3cFhCQ_v4ZHUtQoExqhgE8b",
+	"name": "@EmIsGuilty",
 	"accountType": "free"
 }

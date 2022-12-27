@@ -1,20 +1,34 @@
 {
-	"url": "https://linktr.ee/bynagitaslavina.co",
-	"title": "NAGITA SLAVINA | LinktreeLinktree",
+	"url": "https://linktr.ee/tibyana",
+	"title": "Tibyana Medical Labs | Twitter, Instagram, Facebook | Linktree",
 	"socialLinks": {
-		"emails": [],
+		"emails": [
+			"info@tibyana.com"
+		],
 		"phones": [],
 		"phonesUncertain": [],
-		"linkedIns": [],
-		"twitters": [],
-		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
+		"linkedIns": [
+			"https://www.linkedin.com/company/tibyanalabs/"
+		],
+		"twitters": [
+			"https://twitter.com/TibyanaLabs",
+			"https://twitter.com/tibyanalabs"
+		],
+		"instagrams": [
+			"https://instagram.com/tibyanalabs",
+			"https://www.instagram.com/tibyanalabs/"
+		],
+		"facebooks": [
+			"https://www.facebook.com/TibyanaLabs/"
+		],
+		"youtubes": [
+			"https://www.youtube.com/channel/UCPgONIWsvOnOZMRZxl6cFGQ"
+		],
 		"tiktoks": [],
 		"pinterests": [],
 		"discords": []
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/uEM52NWVSbCVbt7uaRbx_44MoWFaa1RA8k759",
-	"name": "NAGITA SLAVINA",
-	"accountType": "free"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/kkTo5hbXSbiD6ysAlr9Z_NQP6cnyF6K2fCbY9",
+	"name": "Tibyana Medical Labs",
+	"accountType": "paid"
 }

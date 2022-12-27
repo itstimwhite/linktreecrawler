@@ -1,20 +1,32 @@
 {
-	"url": "https://linktr.ee/erenyeagea",
-	"title": "Eren Yeager | LinktreeLinktree Logo",
+	"url": "https://linktr.ee/gamenetics",
+	"title": "Gamenetics | Twitter, Instagram, Facebook, TikTok, Twitch | LinktreeLinktree",
 	"socialLinks": {
 		"emails": [],
 		"phones": [],
 		"phonesUncertain": [],
 		"linkedIns": [],
 		"twitters": [],
-		"instagrams": [],
-		"facebooks": [],
-		"youtubes": [],
-		"tiktoks": [],
+		"instagrams": [
+			"https://www.instagram.com/gameneticsofficial/"
+		],
+		"facebooks": [
+			"https://www.facebook.com/GameneticsHQ"
+		],
+		"youtubes": [
+			"https://www.youtube.com/channel/UCGe5qafVlSaq8F3vyDY7iHw",
+			"https://www.youtube.com/channel/UCXO4df87pqj_xPQiUPoqG3g"
+		],
+		"tiktoks": [
+			"https://www.tiktok.com/@gameneticsdiy",
+			"https://www.tiktok.com/@gameneticsofficial"
+		],
 		"pinterests": [],
-		"discords": []
+		"discords": [
+			"https://discord.gg/mRBPp6QFpj"
+		]
 	},
-	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/LaiIaI7SHObgeGGY83sU_FzlB99FZv5sW5diA",
-	"name": "Eren Yeager",
-	"accountType": "paid"
+	"profilePhotoUrl": "https://d1fdloi71mui9q.cloudfront.net/zDdESsVdQy5rMl6chTI4_8FpX3bUBjfFy5kuX",
+	"name": "Gamenetics",
+	"accountType": "free"
 }

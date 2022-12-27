@@ -1,6 +1,6 @@
 {
 	"id": "Xms2f8U1cgxdMjV",
-	"json": "{\"id\":\"Xms2f8U1cgxdMjV\",\"url\":\"https://linktr.ee/moov.arg\",\"loadedUrl\":\"https://linktr.ee/moov.arg\",\"uniqueKey\":\"https://linktr.ee/moov.arg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:43.098Z\"}",
+	"json": "{\"id\":\"Xms2f8U1cgxdMjV\",\"url\":\"https://linktr.ee/moov.arg\",\"loadedUrl\":\"https://linktr.ee/moov.arg\",\"uniqueKey\":\"https://linktr.ee/moov.arg\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.186Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

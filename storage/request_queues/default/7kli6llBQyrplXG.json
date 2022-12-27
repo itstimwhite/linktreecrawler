@@ -1,6 +1,6 @@
 {
 	"id": "7kli6llBQyrplXG",
-	"json": "{\"id\":\"7kli6llBQyrplXG\",\"url\":\"https://linktr.ee/marketplace\",\"loadedUrl\":\"https://linktr.ee/marketplace\",\"uniqueKey\":\"https://linktr.ee/marketplace\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:41.644Z\"}",
+	"json": "{\"id\":\"7kli6llBQyrplXG\",\"url\":\"https://linktr.ee/marketplace\",\"loadedUrl\":\"https://linktr.ee/marketplace\",\"uniqueKey\":\"https://linktr.ee/marketplace\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:38.554Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

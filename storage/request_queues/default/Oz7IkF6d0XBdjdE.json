@@ -1,6 +1,6 @@
 {
 	"id": "Oz7IkF6d0XBdjdE",
-	"json": "{\"id\":\"Oz7IkF6d0XBdjdE\",\"url\":\"https://linktr.ee/sierracabot\",\"loadedUrl\":\"https://linktr.ee/sierracabot\",\"uniqueKey\":\"https://linktr.ee/sierracabot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.621Z\"}",
+	"json": "{\"id\":\"Oz7IkF6d0XBdjdE\",\"url\":\"https://linktr.ee/sierracabot\",\"loadedUrl\":\"https://linktr.ee/sierracabot\",\"uniqueKey\":\"https://linktr.ee/sierracabot\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:39.044Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

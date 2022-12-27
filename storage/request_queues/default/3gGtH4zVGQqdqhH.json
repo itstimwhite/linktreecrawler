@@ -1,6 +1,6 @@
 {
 	"id": "3gGtH4zVGQqdqhH",
-	"json": "{\"id\":\"3gGtH4zVGQqdqhH\",\"url\":\"https://linktr.ee/kymicals\",\"loadedUrl\":\"https://linktr.ee/kymicals\",\"uniqueKey\":\"https://linktr.ee/kymicals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.148Z\"}",
+	"json": "{\"id\":\"3gGtH4zVGQqdqhH\",\"url\":\"https://linktr.ee/kymicals\",\"loadedUrl\":\"https://linktr.ee/kymicals\",\"uniqueKey\":\"https://linktr.ee/kymicals\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:43.578Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,

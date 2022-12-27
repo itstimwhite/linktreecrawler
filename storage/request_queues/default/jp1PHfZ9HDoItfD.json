@@ -1,6 +1,6 @@
 {
 	"id": "jp1PHfZ9HDoItfD",
-	"json": "{\"id\":\"jp1PHfZ9HDoItfD\",\"url\":\"https://linktr.ee/nadaidentity\",\"loadedUrl\":\"https://linktr.ee/nadaidentity\",\"uniqueKey\":\"https://linktr.ee/nadaidentity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.943Z\"}",
+	"json": "{\"id\":\"jp1PHfZ9HDoItfD\",\"url\":\"https://linktr.ee/nadaidentity\",\"loadedUrl\":\"https://linktr.ee/nadaidentity\",\"uniqueKey\":\"https://linktr.ee/nadaidentity\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:53:40.125Z\"}",
 	"method": "GET",
 	"orderNo": null,
 	"retryCount": 0,
