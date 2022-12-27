@@ -1,0 +1,11 @@
+{
+  "startUrls": [{ "url": "https://www.linktr.ee/charli" }],
+  "handlePageTimeoutSecs": 30,
+  "maxRequestRetries": 1,
+  "minConcurrency": 1,
+  "maxConcurrency": 100,
+  "maxRequestsPerCrawl": 10,
+  "proxyConfiguration": {
+    "useApifyProxy": true
+  }
+}

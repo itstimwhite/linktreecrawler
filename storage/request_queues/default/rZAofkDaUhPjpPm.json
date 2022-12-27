@@ -1,0 +1,9 @@
+{
+	"id": "rZAofkDaUhPjpPm",
+	"json": "{\"id\":\"rZAofkDaUhPjpPm\",\"url\":\"https://linktr.ee/linktr.ee\",\"loadedUrl\":\"https://linktr.ee/linktr.ee\",\"uniqueKey\":\"https://linktr.ee/linktr.ee\",\"method\":\"GET\",\"noRetry\":false,\"retryCount\":0,\"errorMessages\":[],\"headers\":{},\"userData\":{\"label\":\"detail\",\"__crawlee\":{\"state\":4}},\"handledAt\":\"2022-12-27T04:42:42.190Z\"}",
+	"method": "GET",
+	"orderNo": null,
+	"retryCount": 0,
+	"uniqueKey": "https://linktr.ee/linktr.ee",
+	"url": "https://linktr.ee/linktr.ee"
+}

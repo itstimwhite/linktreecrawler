@@ -1,0 +1,19 @@
+{
+	"url": "https://auth.linktr.ee/login?state=hKFo2SBuS19kSGdNdGtrM1RJZVAwU21CMEF2SW5ZLXZIVmpEQqFupWxvZ2luo3RpZNkgb1JKaHZsZ2pwQlFPeDg1RlBNRzg3a0M4UU1PdWdhTWOjY2lk2SB5NUtvZEFBc3hrNmNLZFhQcHdXUHFHcGYwVzM2RDNSTA&client=y5KodAAsxk6cKdXPpwWPqGpf0W36D3RL&protocol=oauth2&auth0Client=eyJuYW1lIjoiSFdJT0F1dGhCdW5kbGUiLCJ2ZXJzaW9uIjoidW5rbm93biIsImVudmlyb25tZW50Ijp7Im5hbWUiOiJQSFAiLCJ2ZXJzaW9uIjoiNy40LjMzIn19&response_type=code&scope=openid%20profile%20email%20username%20offline_access%20read%3Aauthenticators&redirect_uri=https%3A%2F%2Flinktr.ee%2Fconnect%2Fservice%2Fauth0&audience=https%3A%2F%2Flinktr.ee%2Fapi&registrationStartedAt=1672116161.3662&mfeOnboarding=true&ld_anon_key=40873526-d063-4f30-bdbe-a89389c8e7b0&ld_anon_hash=5743b8dc9c96352f27978d3e6468d9a80c14bc1266bae3afc75343591e00b3ec",
+	"title": "Linktree",
+	"socialLinks": {
+		"emails": [],
+		"phones": [],
+		"phonesUncertain": [],
+		"linkedIns": [],
+		"twitters": [],
+		"instagrams": [],
+		"facebooks": [],
+		"youtubes": [],
+		"tiktoks": [],
+		"pinterests": [],
+		"discords": []
+	},
+	"name": "",
+	"accountType": "paid"
+}
