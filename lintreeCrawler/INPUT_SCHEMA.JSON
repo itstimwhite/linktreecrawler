@@ -1,0 +1,6 @@
+{
+  "title": "Input schema for the Linktree actor",
+  "description": "This actor accepts Linktree URLs and returns details from their corresponding pages. If no input is given, it will get the details of new or popular Linktree profiles.",
+  "type": "object",
+  "schemaVersion": 1
+}
