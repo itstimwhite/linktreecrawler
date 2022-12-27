@@ -1,10 +1,9 @@
 {
-  "name": "Linktree Crawler",
+  "name": "linktree-crawler",
   "version": "0.0.1",
   "type": "module",
-  "description": "This is crawler will get all the links from a linktree page",
+  "description": "This is crawler grabs social profiles from Linktree",
   "dependencies": {
-    "@crawlee/utils": "^3.1.2",
     "crawlee": "^3.0.0"
   },
   "scripts": {
